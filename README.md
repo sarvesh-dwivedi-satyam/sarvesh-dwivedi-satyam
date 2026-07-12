@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-dwivedi-satyam&show_icons=true&theme=tokyonight&count_private=true" width="100%" alt="Satyam's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-dwivedi-satyam&show_icons=true&theme=tokyonight&count_private=true" width="100%" alt="Sarvesh's GitHub Stats" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh-dwivedi-satyam&layout=compact&theme=tokyonight" width="100%" alt="Top Languages" />
